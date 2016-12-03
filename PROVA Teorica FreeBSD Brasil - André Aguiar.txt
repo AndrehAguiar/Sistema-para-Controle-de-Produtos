@@ -1,0 +1,28 @@
+1 - D
+2 - C
+3 - C
+4 - A
+5 - A
+6 - A
+7 - B
+8 - A
+9 - B
+10 - D
+11 - A_ IdentifyMyParts
+    
+     B_ public static int x = 7;
+	public int y = 3;
+     
+     C_	a.y = 5
+	b.y = 6
+	a.x = 1
+	b.x = 2
+
+12 - Bicycle(20, 10, 1);
+     MountainBike(20, 10, 5, "Dual");
+     MountainBike(40, 20, 8, "Front");
+
+13 -    HAS_MANY
+	MANY_MANY
+	HAS_ONE
+	BELONGS_TO
